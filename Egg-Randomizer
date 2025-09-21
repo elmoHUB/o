@@ -16,7 +16,6 @@ local autoRunning = false
 
 -- 🐾 Pet Table
 local petTable = {
-    ["Common Egg"] = { "Dog", "Bunny", "Golden Lab" },
     ["Uncommon Egg"] = { "Chicken", "Black Bunny", "Cat", "Deer" },
     ["Rare Egg"] = { "Pig", "Monkey", "Rooster", "Orange Tabby", "Spotted Deer" },
     ["Legendary Egg"] = { "Cow", "Polar Bear", "Sea Otter", "Turtle", "Silver Monkey" },
@@ -34,6 +33,7 @@ local petTable = {
     ["Zen Egg"] = { "Shiba Inu", "Nihonzaru", "Tanuki", "Tanchozuru", "Kappa" },
     ["Gourmet Egg"] = { "Bagel Bunny", "Pancake Mole", "Sushi Bear", "Spaghetti Sloth" },
     ["Enchanted Egg"] = { "Ladybug", "Pixie", "Imp", "Glimmering Sprite" },
+    ["Fall Egg"] = { "Robin", "Badger", "Grizzly Bear", "Barn Owl" },
     ["Sprout Egg"] = { "Dairy Cow", "Jackalope", "Seedling", "Golem" }
 }
 
